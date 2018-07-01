@@ -8,4 +8,6 @@ Then we check the similarity between input playlist name and playlist test set (
 If the incomplete playlist has some tracks then we check the similarity of the contained track with other playlist.
 Now we can recommend the track which user maybe like it, based on the similarity of other user's playlist.
 
-This is not a good practice for recommender system but it good to realise that you should use Machine Learing or Neural Network, LOL!
+This is not a good practice for recommender system but it good to realise that you should use Machine Learing or Neural Network
+
+Thanks Spotify RecSys for this experience.
